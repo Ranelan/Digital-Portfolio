@@ -14,7 +14,7 @@
 
 Welcome to my digital portfolio!  
 This portfolio serves as a reflection of my academic and professional journey throughout the Project Presentation 3 module.  
-Feel free to explore the sections as I showcase my skills, experiences, and projects.  
+Feel free to explore the sections as I showcase my skills and experiences.  
 
 Thank you for visiting!
 
