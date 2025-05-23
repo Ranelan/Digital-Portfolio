@@ -1,5 +1,3 @@
-Sure! Here's your updated `README.md` Markdown with a simple **welcome message** replacing all sections after the overview:
-
 ```markdown
 # 🗂️ Digital Portfolio – Ranelani Engel
 
