@@ -4,8 +4,7 @@
 
 As part of the Career Readiness Training, I completed a learning module on CV writing, which included tips on structure, content, formatting, and customization. After completing the learning content, I applied my knowledge by taking a quiz and then creating a professional CV.
 
-[Quiz Screenshot](../assets/cv-quiz.png)
-
+![CV Quiz Result](../assets/cv-quiz.png)
 ---
 
 ## ✍️ Reflection (STAR Technique)
