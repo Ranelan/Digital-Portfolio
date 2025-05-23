@@ -5,7 +5,7 @@
 - **Name**: Ranelani Engel  
 - **Institution**: Cape Peninsula University of Technology (CPUT)  
 - **Program**: Diploma in Information and Communication Technology
-- 
+
 ---
 
 ## 👋 Welcome
@@ -26,16 +26,16 @@ Dive into each section below to discover my reflections, assessments, and progre
 Gain insights into my career planning process and the guidance I received.
 
 🔹 [🛠️ Skills and Interests](./skills-interests/README.md)  
-An exploration of what I’m good at, what I enjoy, and how it shapes my career path.
+See what I learned about my key skills and preferences through self-assessment — and how they guide my career focus.
 
 🔹 [🧠 Personality Assessment](./personality-assessment/README.md)  
 Understand how my personality influences the way I work and collaborate.
 
 🔹 [📝 Create a CV](./cv/README.md)  
-View the professional CV I crafted to reflect my qualifications and ambitions.
+See how I learned to build a professional CV through a guided module and quiz, and how I applied that knowledge to craft my own.
 
 🔹 [📬 CV Submission](./cv-submission/README.md)  
-See how and where I submitted my CV, along with final reflections on the process.
+Proof of my official CV submission, plus a download link to the final document and reflection on the experience.
 
 
 ## 🔗 Additional Resources
