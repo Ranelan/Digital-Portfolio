@@ -40,10 +40,9 @@ See how I learned to build a professional CV through a guided module and quiz, a
 Proof of my official CV submission, plus a download link to the final document and reflection on the experience.
 
 
-## 🔗 Additional Resources
+## 🔗 Reach me here
 
-- [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- [GitHub Profile](https://github.com/your-username)
+- [LinkedIn Profile](https://www.linkedin.com/in/engel-ranelani-3b1b28271/)  
 
 ---
 
