@@ -1,20 +1,29 @@
-```markdown
-# 🗂️ Digital Portfolio – Ranelani Engel
+# 🎓 Digital Portfolio
 
-## 📌 Overview
+Welcome to my digital portfolio. This repository contains artefacts and reflections aligned with the **Career Readiness Training** completed as part of the PRP370S module.
 
-- **Name**: Ranelani Engel  
-- **Institution**: Cape Peninsula University of Technology (CPUT)  
-- **Program**: Diploma in Information and Communication Technology  
 ---
 
-## 👋 Welcome
+## 📁 Section Links
 
-Welcome to my digital portfolio!  
-This portfolio serves as a reflection of my academic and professional journey throughout the Project Presentation 3 module.  
-Feel free to explore the sections as I showcase my skills, experiences, and projects.  
+Click on each section below to view its dedicated README with detailed evidence and STAR reflections:
 
-Thank you for visiting!
-```
+1. [Career Counselling](./career-counselling/README.md)
+2. [Skills and Interests](./skills-interests/README.md)
+3. [Personality Assessment](./personality-assessment/README.md)
+4. [Create a CV](./cv/README.md)
+5. [CV Submission](./cv-submission/README.md)
 
+---
 
+## 🔗 Additional Resources
+
+- [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- [GitHub Profile](https://github.com/your-username)
+
+---
+
+> 📝 *This portfolio demonstrates my growth during the career readiness program using a structured and reflective approach. Thank you for reviewing my work.*
+
+**Name**: Ranelani Engel  
+**Student Number**: 2300XXXXXX
