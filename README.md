@@ -1,20 +1,42 @@
-# 🎓 Digital Portfolio
+# 🎓 Digital Portfolio – Ranelani Engel
 
-Welcome to my digital portfolio. This repository contains artefacts and reflections aligned with the **Career Readiness Training** completed as part of the PRP370S module.
+##📌 Overview
+
+- **Name**: Ranelani Engel  
+- **Institution**: Cape Peninsula University of Technology (CPUT)  
+- **Program**: Diploma in Information and Communication Technology
+- 
+---
+
+## 👋 Welcome
+
+Welcome to my digital portfolio!  
+This portfolio serves as a reflection of my academic and professional journey throughout the Project Presentation 3 module.  
+Feel free to explore the sections as I showcase my skills, experiences, and projects.  
+
+Thank you for visiting!
 
 ---
 
-## 📁 Section Links
+## 📚 Explore My Portfolio
 
-Click on each section below to view its dedicated README with detailed evidence and STAR reflections:
+Dive into each section below to discover my reflections, assessments, and progress through the Career Readiness Training. Each link takes you to a dedicated page showcasing detailed evidence and STAR-based reflections:
 
-1. [Career Counselling](./career-counselling/README.md)
-2. [Skills and Interests](./skills-interests/README.md)
-3. [Personality Assessment](./personality-assessment/README.md)
-4. [Create a CV](./cv/README.md)
-5. [CV Submission](./cv-submission/README.md)
+🔹 [💼 Career Counselling](./career-counselling/README.md)  
+Gain insights into my career planning process and the guidance I received.
 
----
+🔹 [🛠️ Skills and Interests](./skills-interests/README.md)  
+An exploration of what I’m good at, what I enjoy, and how it shapes my career path.
+
+🔹 [🧠 Personality Assessment](./personality-assessment/README.md)  
+Understand how my personality influences the way I work and collaborate.
+
+🔹 [📝 Create a CV](./cv/README.md)  
+View the professional CV I crafted to reflect my qualifications and ambitions.
+
+🔹 [📬 CV Submission](./cv-submission/README.md)  
+See how and where I submitted my CV, along with final reflections on the process.
+
 
 ## 🔗 Additional Resources
 
@@ -23,7 +45,3 @@ Click on each section below to view its dedicated README with detailed evidence 
 
 ---
 
-> 📝 *This portfolio demonstrates my growth during the career readiness program using a structured and reflective approach. Thank you for reviewing my work.*
-
-**Name**: Ranelani Engel  
-**Student Number**: 2300XXXXXX
