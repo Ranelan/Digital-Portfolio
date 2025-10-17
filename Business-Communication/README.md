@@ -22,10 +22,10 @@ I engaged with all course modules and practice exercises, focusing on clarity, t
 **✅ Result:**
 I successfully passed the assessment with a perfect score of 100/100. This result validated my understanding of the material and boosted my confidence. I now apply these skills in my internship when sending professional emails and communicating with colleagues, leading to clearer and more effective interactions.
 
-**💡 Key Competencies Demonstrated:**
-Professional Writing & Correspondence
-Digital & Cross-Cultural Communication
-Understanding of Professional Tone & Etiquette
+**💡 Key Competencies Demonstrated:**    
+-Professional Writing & Correspondence    
+-Digital & Cross-Cultural Communication    
+-Understanding of Professional Tone & Etiquette
 
 > This assessment confirmed my ability to communicate clearly and professionally in different workplace contexts.
 
