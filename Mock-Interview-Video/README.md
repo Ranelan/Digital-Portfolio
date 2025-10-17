@@ -21,10 +21,10 @@ I prepared for the simulation as if it were a real job interview. I researched a
 **✅ Result: **
 The recorded interview was an invaluable learning experience. It allowed me to objectively review my performance, confirming my strengths in preparation and structured answers, while also highlighting areas for improvement, such as pacing. This practical exercise significantly increased my confidence and readiness for future job interviews.
 
-**💡 Key Performance Takeaways:**
-Applied the STAR method effectively under pressure.
-Maintained professional poise and clear articulation.
-Identified actionable areas for continuous improvement.
+**💡 Key Performance Takeaways:**    
+-Applied the STAR method effectively under pressure.    
+-Maintained professional poise and clear articulation.    
+-Identified actionable areas for continuous improvement.
 
 > This simulation was a crucial step in translating theoretical knowledge into confident, real-world interview performance.
 
