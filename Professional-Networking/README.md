@@ -19,9 +19,9 @@ I conducted a complete overhaul of my LinkedIn profile, writing a keyword-rich "
 **✅ Result:**
 This focused effort has transformed my LinkedIn from a simple online resume into a dynamic networking tool. My network has grown significantly, and now includes a diverse range of industry contacts. More importantly, I have the important skill needed for networking in my field through learning in this course.
 
-**💡 Key Competencies Developed:**
-Professional Brand Management
-Strategic Online Networking
-Digital Communication & Etiquette
+**💡 Key Competencies Developed:**    
+-Professional Brand Management   
+-Strategic Online Networking    
+-Digital Communication & Etiquette
 
 > This experience taught me that networking is not about collecting contacts, but about building genuine professional relationships and creating a community for learning and opportunity.
