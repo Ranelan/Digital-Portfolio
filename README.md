@@ -43,7 +43,10 @@ Proof of my official CV submission, plus a download link to the final document a
 This section details my formal training in business communication and demonstrates how I apply these principles in my internship.
 
 🔹 [🤝 Interview Skills](./Interview-Skills/README.md)   
-This section outlines the skills I've developed to effectively articulate my value and succeed in professional job interviews.
+This section outlines the skills I've developed to articulate my value and succeed in professional job interviews effectively.
+
+🔹 [🗣️ Mock Interview](./Mock-Interview-Video/README.md)   
+This section provides a practical demonstration of my interview skills, highlighting my confidence and preparation for real-world scenarios.
 
 
 ## 🔗 Reach me here
