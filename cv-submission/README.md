@@ -4,7 +4,7 @@
 
 After completing my CV, I submitted it as part of the Career Readiness Training. The submission followed the provided guidelines for format, file naming, and structure.
 
-📄 **[Download my CV](../assets/Engel_Ranelani_CV.pdf)**  
+📄 **[Download my CV](../assets/ENGEL-RANELANI-CV-.pdf)**  
 📸 CV Submission Proof:
 
 ![CV Submission Screenshot](../assets/cv-submission.png)
