@@ -40,7 +40,10 @@ See how I learned to build a professional CV through a guided module and quiz, a
 Proof of my official CV submission, plus a download link to the final document and reflection on the experience.
 
 🔹 [👔 Business Communication](./Business-Communication/README.md)  
-This section details my formal training in business communication and demonstrates how I apply these principles in my internshi
+This section details my formal training in business communication and demonstrates how I apply these principles in my internship.
+
+🔹 [🤝 Interview Skills](./Interview-Skills/README.md)   
+This section outlines the skills I've developed to effectively articulate my value and succeed in professional job interviews.
 
 
 ## 🔗 Reach me here
