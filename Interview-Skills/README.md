@@ -20,9 +20,9 @@ I actively studied various interview techniques, with a strong focus on practici
 **✅ Result:**
 Completing this course and its assessment has significantly improved my approach to interviews. I now have a clear framework for preparing key examples of my achievements and can communicate my skills with confidence and clarity. I feel far more self-assured and prepared for real-world job interviews.
 
-**🎯 Core Skills Acquired:**
-Strategic Storytelling (STAR Method)
-Professional Presence & Delivery
-Handling Behavioral & Technical Questions
+**🎯 Core Skills Acquired:**     
+-Strategic Storytelling (STAR Method)    
+-Professional Presence & Delivery    
+-Handling Behavioral & Technical Questions
 
 >This training equipped me with the confidence and techniques to effectively articulate my value to potential employers.
