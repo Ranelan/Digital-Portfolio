@@ -39,6 +39,9 @@ See how I learned to build a professional CV through a guided module and quiz, a
 🔹 [📬 CV Submission](./cv-submission/README.md)  
 Proof of my official CV submission, plus a download link to the final document and reflection on the experience.
 
+🔹 [👔 Business Communication](./Business-Communication/README.md)  
+This section details my formal training in business communication and demonstrates how I apply these principles in my internshi
+
 
 ## 🔗 Reach me here
 
