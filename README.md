@@ -48,8 +48,11 @@ This section outlines the skills I've developed to articulate my value and succe
 🔹 [🗣️ Mock Interview](./Mock-Interview-Video/README.md)   
 This section provides a practical demonstration of my interview skills, highlighting my confidence and preparation for real-world scenarios.
 
-🔹 [🌐 Professional Networking](./Professional-Networking)   
+🔹 [🌐 Professional Networking](./Professional-Networking/README.md)   
 This section details my strategy for building a professional network and leveraging it for career growth and industry insights.
+
+🔹 [👔 Workplace Etiquette](./Workplace-etiquette/README.md)   
+This section highlights my understanding of professional conduct and how I apply these principles in a real-world internship setting.
 
 
 ## 🔗 Reach me here
